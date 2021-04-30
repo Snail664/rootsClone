@@ -3,6 +3,11 @@
   justify-content: center;
 }
 
+.card:hover {
+  background-color: white;
+  cursor: pointer;
+}
+
 .parallax {
   /* The image used */
   background-image: url("Main.jpg");
