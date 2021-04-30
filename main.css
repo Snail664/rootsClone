@@ -3,7 +3,7 @@
   justify-content: center;
 }
 
-.card:hover {
+.custom-card:hover {
   background-color: white;
   cursor: pointer;
 }
